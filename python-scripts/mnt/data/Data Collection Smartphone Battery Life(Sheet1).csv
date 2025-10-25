@@ -1,0 +1,23 @@
+﻿Id;How old are you?;What gender are you?;What phone do you have?;What operating system does your phone use?;What is your currently Battery Health (Current Battery Capacity)?;What is your current battery percentage (before starting the stopwatch)?;What is your current battery percentage (when stopping the stopwatch)?;How long was your session (in seconds)?;Did you run the stopwatch on the phone you used for the battery percentage?;How many apps have you opened during your session?;What was your average screen brightness(%) during your session?;Where you connected to a Wifi or Cellular Network during your session?;Did you have a bluetooth device connected to your phone during your session?;Did you use any GPS/Location Tracking features during your session? ;Did you use Battery Saving Mode during your session?
+1;20;Man;iPhone 12;iOs;97;70;62;1212;No;5;;Yes;Yes;No;No
+2;20;Man;iPhone 12;iOs;97;54;42;1159;Yes;3;100;Yes;No;No;No
+3;20;Man;ROG Phone 8 Pro Edition ;Android;95;62;53;1923;Yes;3;80;Yes;No;No;No
+4;22;Woman;iPhone 11 ;iOs;76;69;56;600;No;1;100;Yes;No;No;No
+5;27;Man;Iphone 12;iOs;79;52;32;1500;Yes;3;35;Yes;No;No;No
+6;26;Woman;Samsung Galaxy S24 Ultra;Android;95;80;78;956;No;1;10;Yes;Yes;No;No
+7;20;Man;iPhone 12;iOs;97;100;93;1508;Yes;8;5;Yes;No;No;No
+8;26;Man;iPhone 17 Pro Max;iOs;100;100;73;18034;No;4;100;Yes;No;No;No
+9;26;Man;iPhone 17 Pro;iOs;100;100;66;18034;No;4;100;Yes;No;No;No
+10;25;Man;iPhone Air;iOs;100;100;51;18034;No;4;100;Yes;No;No;No
+11;25;Man;iPhone 17;iOs;100;100;64;18034;No;4;100;Yes;No;No;No
+12;26;Man;iPhone 16 Pro Max;iOs;100;100;71;18034;No;4;100;Yes;No;No;No
+13;24;Man;iPhone 16;iOs;100;100;64;18034;No;4;100;Yes;No;No;No
+14;25;Man;Samsung Galaxy S25 Ultra;Android;100;100;69;18034;No;4;100;Yes;No;No;No
+15;23;Prefer not to say;Samsung Z Fold 7;Android;100;100;66;18000;No;5;100;Yes;No;No;No
+16;24;Prefer not to say;Samsung Z Flip 7;Android;100;100;73;18000;No;5;100;Yes;No;No;No
+17;24;Prefer not to say;Samsung Galaxy S25 Ultra;Android;100;100;73;18000;No;5;100;Yes;No;No;No
+18;21;Man;Samsung Galaxy S25 Edge;Android;100;100;69;18000;No;5;100;Yes;No;No;No
+19;19;Man;Iphone 13;iOs;80;46;42;942;No;4;50;Yes;No;Yes;No
+20;20;Man;ROG Phone 8 Pro Edition;Android;95;70;59;2194;No;1;40;Yes;No;No;Yes
+21;27;Man;iPhone 13 Pro;iOs;77;71;67;740;Yes;1;100;Yes;Yes;Yes;No
+22;20;Man;iPhone 12;iOs;97;86;80;1617;Yes;5;75;Yes;Yes;No;Yes
