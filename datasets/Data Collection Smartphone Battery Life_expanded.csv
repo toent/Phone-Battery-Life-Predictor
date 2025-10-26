@@ -1,146 +1,146 @@
-id,userage,usergender,userphone,phoneos,batteryhealth,startbatterypercentage,endbatterypercentage,sessionlength,timedonphone,appcount,screenbrightness,usednetwork,usedbluetooth,usedGPS,usedbatterysaving
-1,20,Man,iPhone 12,iOs,97,70,62,1212.0,No,5,,Yes,Yes,No,No
-2,20,Man,iPhone 12,iOs,97,54,42,1159.0,Yes,3,100.0,Yes,No,No,No
-3,20,Man,ROG Phone 8 Pro Edition ,Android,95,62,53,1923.0,Yes,3,80.0,Yes,No,No,No
-4,22,Woman,iPhone 11 ,iOs,76,69,56,600.0,No,1,100.0,Yes,No,No,No
-5,27,Man,Iphone 12,iOs,79,52,32,1500.0,Yes,3,35.0,Yes,No,No,No
-6,26,Woman,Samsung Galaxy S24 Ultra,Android,95,80,78,956.0,No,1,10.0,Yes,Yes,No,No
-7,20,Man,iPhone 12,iOs,97,100,93,1508.0,Yes,8,5.0,Yes,No,No,No
-8,26,Man,iPhone 17 Pro Max,iOs,100,100,73,18034.0,No,4,100.0,Yes,No,No,No
-9,26,Man,iPhone 17 Pro,iOs,100,100,66,18034.0,No,4,100.0,Yes,No,No,No
-10,25,Man,iPhone Air,iOs,100,100,51,18034.0,No,4,100.0,Yes,No,No,No
-11,25,Man,iPhone 17,iOs,100,100,64,18034.0,No,4,100.0,Yes,No,No,No
-12,26,Man,iPhone 16 Pro Max,iOs,100,100,71,18034.0,No,4,100.0,Yes,No,No,No
-13,24,Man,iPhone 16,iOs,100,100,64,18034.0,No,4,100.0,Yes,No,No,No
-14,25,Man,Samsung Galaxy S25 Ultra,Android,100,100,69,18034.0,No,4,100.0,Yes,No,No,No
-15,23,Prefer not to say,Samsung Z Fold 7,Android,100,100,66,18000.0,No,5,100.0,Yes,No,No,No
-16,24,Prefer not to say,Samsung Z Flip 7,Android,100,100,73,18000.0,No,5,100.0,Yes,No,No,No
-17,24,Prefer not to say,Samsung Galaxy S25 Ultra,Android,100,100,73,18000.0,No,5,100.0,Yes,No,No,No
-18,21,Man,Samsung Galaxy S25 Edge,Android,100,100,69,18000.0,No,5,100.0,Yes,No,No,No
-19,19,Man,Iphone 13,iOs,80,46,42,942.0,No,4,50.0,Yes,No,Yes,No
-20,20,Man,ROG Phone 8 Pro Edition,Android,95,70,59,2194.0,No,1,40.0,Yes,No,No,Yes
-21,27,Man,iPhone 13 Pro,iOs,77,71,67,740.0,Yes,1,100.0,Yes,Yes,Yes,No
-22,20,Man,iPhone 12,iOs,97,86,80,1617.0,Yes,5,75.0,Yes,Yes,No,Yes
-23,46,Man,iPhone 13 Pro Max,iOs,92,94,90,320.3,No,3,47.0,Yes,Yes,No,Yes
-24,72,Man,iPhone Air,iOs,80,95,89,185.6,No,6,82.0,No,No,No,No
-25,56,Man,Xiaomi 12,Android,90,99,98,543.6,No,4,49.0,Yes,Yes,No,No
-26,16,Woman,iPhone 15 Pro Max,iOs,96,73,67,771.6,Yes,8,87.0,Yes,No,No,No
-27,18,Man,iPhone 13 Pro Max,iOs,94,80,75,375.3,No,4,98.0,Yes,Yes,Yes,No
-28,60,Woman,iPhone 15,iOs,81,98,93,722.7,Yes,7,81.0,Yes,No,No,No
-29,42,Woman,Galaxy S8 Edge,Android,84,87,86,693.7,Yes,5,51.0,No,No,No,No
-30,23,Man,Samsung Galaxy S23 Ultra,Android,98,85,84,60.0,No,6,22.0,Yes,No,No,Yes
-31,69,Woman,Galaxy S23 Edge,Android,83,86,84,959.0,Yes,6,26.0,Yes,No,Yes,No
-32,38,Prefer not to say,Google Pixel 7,Android,91,73,72,879.1,Yes,5,83.0,No,Yes,No,No
-33,48,Man,Galaxy S10 Edge,Android,91,79,76,1041.7,Yes,5,98.0,Yes,No,No,No
-34,42,Woman,Galaxy S9 Edge,Android,87,99,94,961.7,Yes,5,52.0,Yes,No,No,No
-35,70,Man,iPhone 15 Pro,iOs,83,72,71,859.0,Yes,3,57.0,Yes,Yes,No,No
-36,52,Man,iPhone 15,iOs,89,92,88,810.8,Yes,5,15.0,Yes,No,No,Yes
-37,69,Woman,Galaxy S6 Edge,Android,83,94,85,861.3,Yes,5,88.0,Yes,Yes,No,No
-38,60,Woman,Galaxy S25 Edge,Android,87,75,67,1058.2,Yes,4,20.0,Yes,Yes,Yes,No
-39,52,Woman,iPhone 15 Pro Max,iOs,91,95,94,1191.5,Yes,4,33.0,Yes,No,No,No
-40,19,Woman,iPhone 13,iOs,90,85,78,1042.4,Yes,3,92.0,Yes,Yes,Yes,No
-41,73,Man,iPhone Air,iOs,80,82,76,1116.3,Yes,5,80.0,Yes,No,No,No
-42,46,Man,iPhone 15 Pro,iOs,87,79,76,1023.2,Yes,4,42.0,Yes,No,No,Yes
-43,28,Man,iPhone 15 Pro,iOs,91,86,85,926.6,Yes,3,60.0,Yes,No,No,No
-44,58,Man,Galaxy S8 Edge,Android,87,97,94,936.8,Yes,4,97.0,Yes,Yes,No,No
-45,28,Man,Samsung Galaxy Z Flip 6,Android,90,71,70,826.6,Yes,4,21.0,No,Yes,No,Yes
-46,60,Woman,Galaxy S10 Edge,Android,87,96,93,726.2,Yes,3,85.0,Yes,Yes,Yes,No
-47,70,Man,iPhone 12,iOs,80,75,72,314.6,No,4,97.0,Yes,No,Yes,No
-48,55,Woman,Galaxy S20 Edge,Android,88,92,89,705.8,Yes,5,27.0,No,Yes,No,No
-49,38,Man,Samsung Galaxy S25,Android,89,71,70,60.0,No,4,40.0,Yes,No,No,Yes
-50,33,Man,Samsung Galaxy S22,Android,89,97,96,826.9,Yes,7,84.0,Yes,Yes,No,No
-51,45,Man,Galaxy S8 Edge,Android,84,91,87,348.5,No,3,37.0,Yes,Yes,Yes,No
-52,56,Man,iPhone 11,iOs,83,100,92,968.2,Yes,4,98.0,No,Yes,No,No
-53,67,Woman,Galaxy S6 Edge,Android,81,100,94,870.8,Yes,8,82.0,Yes,No,No,No
-54,42,Man,Galaxy S20 Edge,Android,87,75,68,691.9,Yes,6,90.0,Yes,Yes,No,No
-55,50,Woman,iPhone Air,iOs,84,71,69,890.9,Yes,6,91.0,Yes,Yes,No,No
-56,20,Man,iPhone 13 Pro Max,iOs,93,86,85,323.1,No,7,42.0,Yes,No,No,No
-57,21,Woman,iPhone 12,iOs,89,98,97,60.0,No,6,32.0,Yes,No,No,No
-58,44,Man,Galaxy S10 Edge,Android,92,74,68,902.7,Yes,5,59.0,No,No,No,No
-59,64,Woman,Galaxy S21 Edge,Android,90,81,79,779.2,Yes,3,91.0,Yes,Yes,Yes,No
-60,57,Woman,iPhone 13 Pro Max,iOs,90,85,84,620.9,Yes,8,22.0,No,No,No,Yes
-61,70,Non-binary,Google Pixel 7,Android,87,76,75,252.5,No,3,46.0,Yes,Yes,No,Yes
-62,56,Man,Google Pixel 7,Android,86,71,66,758.6,Yes,9,100.0,Yes,No,No,No
-63,35,Man,Galaxy S10 Edge,Android,89,86,85,1095.0,Yes,8,81.0,Yes,No,No,No
-64,55,Prefer not to say,iPhone 15,iOs,83,84,83,801.9,Yes,4,25.0,No,Yes,Yes,Yes
-65,35,Man,Galaxy S8 Edge,Android,88,81,80,275.7,No,3,15.0,Yes,Yes,No,Yes
-66,61,Woman,Google Pixel 7,Android,85,74,73,958.3,Yes,4,94.0,No,Yes,No,No
-67,64,Woman,iPhone 14 Pro Max,iOs,87,83,82,820.5,Yes,3,62.0,Yes,No,No,No
-68,43,Man,Samsung Galaxy S22,Android,85,89,83,97.1,No,3,11.0,Yes,No,No,Yes
-69,46,Man,Galaxy S9 Edge,Android,89,73,69,881.8,Yes,3,51.0,Yes,Yes,Yes,No
-70,74,Non-binary,iPhone 13,iOs,82,90,89,1004.8,Yes,6,25.0,Yes,No,No,Yes
-71,67,Man,iPhone Air,iOs,84,88,78,130.8,No,6,89.0,Yes,Yes,No,No
-72,23,Non-binary,Galaxy S22 Edge,Android,87,74,73,885.2,Yes,6,16.0,Yes,No,No,Yes
-73,38,Woman,Galaxy S9 Edge,Android,88,70,69,302.4,No,6,94.0,Yes,No,No,No
-74,48,Man,iPhone 13,iOs,84,97,95,1067.2,Yes,6,95.0,Yes,Yes,No,No
-75,26,Man,Galaxy S24 Edge,Android,92,72,71,60.0,No,7,49.0,Yes,No,No,Yes
-76,70,Woman,Galaxy S9 Edge,Android,80,90,84,276.4,No,7,37.0,Yes,No,No,No
-77,49,Man,iPhone 14,iOs,89,70,67,1055.8,Yes,5,41.0,No,No,No,Yes
-78,67,Woman,Galaxy S24 Edge,Android,82,81,79,827.9,Yes,5,19.0,Yes,No,No,Yes
-79,74,Woman,iPhone 14 Pro,iOs,86,75,73,941.1,Yes,3,19.0,Yes,No,No,Yes
-80,71,Woman,Galaxy S6 Edge,Android,80,99,98,893.6,Yes,3,100.0,No,No,Yes,No
-81,65,Woman,Galaxy S8 Edge,Android,85,96,95,924.6,Yes,4,10.0,No,No,No,Yes
-82,72,Man,Galaxy S25 Edge,Android,85,94,87,570.9,Yes,3,40.0,Yes,Yes,No,Yes
-83,16,Woman,iPhone 14,iOs,88,76,74,804.2,Yes,5,39.0,Yes,No,No,Yes
-84,53,Woman,iPhone 14 Pro,iOs,84,85,83,996.7,Yes,5,28.0,Yes,No,No,No
-85,41,Man,Galaxy S9 Edge,Android,84,72,66,1177.1,Yes,3,88.0,Yes,No,No,No
-86,37,Woman,Galaxy S8 Edge,Android,88,74,68,70.5,No,5,93.0,Yes,No,No,No
-87,38,Man,Google Pixel 7,Android,89,89,88,1017.8,Yes,4,34.0,No,No,No,Yes
-88,19,Woman,iPhone 14 Pro,iOs,89,92,91,649.8,Yes,6,26.0,Yes,No,No,Yes
-89,68,Woman,iPhone 14 Pro,iOs,84,73,72,1138.6,Yes,3,37.0,Yes,Yes,Yes,No
-90,57,Man,Google Pixel 8,Android,90,79,78,1044.0,Yes,3,94.0,Yes,Yes,No,No
-91,33,Man,Huawei P50,Android,90,70,69,764.5,Yes,5,18.0,Yes,No,No,Yes
-92,17,Man,iPhone 14 Pro,iOs,90,79,74,1021.5,Yes,6,95.0,No,No,No,No
-93,33,Man,Samsung Galaxy S24,Android,88,93,92,1046.0,Yes,7,70.0,Yes,No,Yes,No
-94,56,Woman,Galaxy S6 Edge,Android,81,86,85,831.8,Yes,3,30.0,No,Yes,No,Yes
-95,26,Non-binary,Samsung Galaxy S23,Android,90,97,96,589.5,Yes,6,44.0,Yes,No,No,Yes
-96,45,Man,Galaxy S24 Edge,Android,90,97,96,844.1,Yes,5,47.0,No,No,No,No
-97,38,Man,Galaxy S22 Edge,Android,89,71,66,692.2,Yes,4,38.0,Yes,Yes,Yes,Yes
-98,70,Man,iPhone 14 Pro Max,iOs,89,100,99,836.5,Yes,6,36.0,Yes,No,No,No
-99,26,Woman,Galaxy S25 Edge,Android,92,95,85,1183.7,Yes,5,100.0,Yes,No,Yes,No
-100,26,Woman,Galaxy S8 Edge,Android,92,84,81,82.0,No,3,15.0,Yes,No,No,Yes
-101,47,Non-binary,Galaxy S6 Edge,Android,82,94,93,427.7,No,7,25.0,Yes,No,No,No
-102,35,Woman,Samsung Galaxy S25,Android,94,95,90,1007.1,Yes,5,13.0,No,No,No,Yes
-103,70,Woman,Xiaomi 12,Android,88,78,76,965.1,Yes,4,84.0,Yes,No,No,No
-104,56,Woman,iPhone 15,iOs,85,88,86,1313.4,Yes,3,99.0,Yes,No,No,No
-105,29,Prefer not to say,Galaxy S6 Edge,Android,92,79,77,242.1,No,5,42.0,Yes,Yes,No,Yes
-106,42,Prefer not to say,Galaxy S25 Edge,Android,91,74,71,772.1,Yes,3,99.0,Yes,No,No,No
-107,47,Man,OnePlus 10,Android,91,86,82,980.5,Yes,3,69.0,Yes,No,No,No
-108,61,Man,iPhone 13,iOs,82,87,86,950.1,Yes,5,32.0,Yes,No,No,Yes
-109,65,Man,Google Pixel 7,Android,88,87,86,788.5,Yes,3,12.0,Yes,Yes,Yes,Yes
-110,21,Man,Galaxy S10 Edge,Android,94,96,92,291.3,No,5,95.0,Yes,No,No,No
-111,21,Man,Galaxy S23 Edge,Android,93,94,93,824.2,Yes,8,63.0,No,No,No,No
-112,49,Prefer not to say,Galaxy S20 Edge,Android,91,80,79,641.3,Yes,5,43.0,No,Yes,No,Yes
-113,24,Man,Galaxy S9 Edge,Android,87,96,92,923.1,Yes,4,11.0,Yes,No,Yes,Yes
-114,72,Man,Galaxy S25 Edge,Android,84,72,66,544.4,Yes,5,63.0,Yes,Yes,Yes,No
-115,22,Woman,iPhone 13 Pro Max,iOs,93,97,93,339.9,No,3,44.0,No,Yes,No,No
-116,32,Non-binary,iPhone 17 Pro Max,iOs,94,86,85,748.3,Yes,5,22.0,Yes,No,No,No
-117,42,Woman,Galaxy S25 Edge,Android,91,81,79,845.7,Yes,3,86.0,Yes,No,No,No
-118,45,Woman,iPhone 13 Pro,iOs,86,90,83,1007.5,Yes,3,80.0,Yes,No,No,No
-119,47,Man,iPhone 15 Pro,iOs,86,76,74,772.5,Yes,3,78.0,Yes,Yes,Yes,No
-120,61,Woman,Galaxy S6 Edge,Android,80,100,99,746.5,Yes,6,91.0,No,No,No,No
-121,73,Woman,Galaxy S7 Edge,Android,81,81,79,327.4,No,3,87.0,Yes,No,No,No
-122,52,Man,iPhone 11,iOs,81,81,77,980.5,Yes,6,59.0,Yes,No,No,No
-123,51,Woman,Galaxy S22 Edge,Android,89,84,83,1027.2,Yes,5,89.0,No,No,No,No
-124,40,Non-binary,Galaxy S20 Edge,Android,87,93,89,833.0,Yes,6,40.0,Yes,No,Yes,No
-125,31,Man,iPhone 17 Pro,iOs,91,94,93,814.2,Yes,6,82.0,No,Yes,No,No
-126,67,Woman,iPhone 13 Pro,iOs,80,77,72,848.0,Yes,5,100.0,Yes,Yes,No,No
-127,45,Man,iPhone 13 Pro Max,iOs,93,96,95,990.0,Yes,6,22.0,Yes,Yes,No,No
-128,34,Man,iPhone 13,iOs,86,81,76,954.3,Yes,6,84.0,Yes,No,Yes,No
-129,38,Woman,iPhone Air,iOs,86,83,78,1025.9,Yes,4,99.0,Yes,No,No,No
-130,46,Man,iPhone Air,iOs,83,82,81,931.4,Yes,4,38.0,Yes,No,No,No
-131,54,Man,Google Pixel 8,Android,92,80,79,1031.8,Yes,4,40.0,Yes,Yes,No,Yes
-132,27,Man,Samsung Galaxy Z Fold 6,Android,94,96,88,292.0,No,7,47.0,Yes,Yes,No,No
-133,16,Man,iPhone 14 Pro,iOs,89,94,90,801.8,Yes,6,64.0,Yes,Yes,No,No
-134,41,Man,iPhone 13 Pro Max,iOs,88,80,73,100.3,No,8,92.0,Yes,Yes,No,No
-135,62,Man,iPhone 14,iOs,85,92,89,745.9,Yes,3,62.0,Yes,Yes,No,No
-136,24,Man,Galaxy S7 Edge,Android,89,85,80,1039.4,Yes,6,43.0,Yes,Yes,No,No
-137,22,Woman,Galaxy S25 Edge,Android,92,71,68,876.7,Yes,3,21.0,Yes,No,No,No
-138,60,Man,iPhone 12,iOs,82,80,78,1014.1,Yes,7,42.0,Yes,Yes,No,No
-139,49,Man,Huawei P50,Android,90,82,80,60.0,No,6,16.0,Yes,No,No,Yes
-140,44,Man,Huawei P50,Android,89,100,97,786.5,Yes,6,67.0,Yes,No,No,No
-141,70,Man,iPhone 11,iOs,82,100,97,828.8,Yes,6,22.0,Yes,No,No,No
-142,19,Man,Samsung Galaxy S22,Android,89,78,77,845.4,Yes,6,87.0,Yes,No,No,No
-143,18,Man,iPhone 14 Pro Max,iOs,94,87,84,560.7,Yes,3,94.0,Yes,Yes,No,No
-144,37,Prefer not to say,Galaxy S20 Edge,Android,91,72,71,948.3,Yes,7,13.0,Yes,Yes,Yes,Yes
-145,21,Woman,Galaxy S24 Edge,Android,92,74,68,1165.2,Yes,3,87.0,Yes,No,Yes,No
+id,userage,usergender,userphone,phoneos,batteryhealth,startbatterypercentage,endbatterypercentage,sessionlength,timedonphone,appcount,screenbrightness,usednetwork,usedbluetooth,usedGPS,usedbatterysaving,batterycapacity_mAh
+1,20,Man,iPhone 12,iOs,97,70,62,1212.0,No,5,,Yes,Yes,No,No,2815
+2,20,Man,iPhone 12,iOs,97,54,42,1159.0,Yes,3,100.0,Yes,No,No,No,2815
+3,20,Man,ROG Phone 8 Pro Edition ,Android,95,62,53,1923.0,Yes,3,80.0,Yes,No,No,No,5500
+4,22,Woman,iPhone 11 ,iOs,76,69,56,600.0,No,1,100.0,Yes,No,No,No,3110
+5,27,Man,Iphone 12,iOs,79,52,32,1500.0,Yes,3,35.0,Yes,No,No,No,2815
+6,26,Woman,Samsung Galaxy S24 Ultra,Android,95,80,78,956.0,No,1,10.0,Yes,Yes,No,No,5000
+7,20,Man,iPhone 12,iOs,97,100,93,1508.0,Yes,8,5.0,Yes,No,No,No,2815
+8,26,Man,iPhone 17 Pro Max,iOs,100,100,73,18034.0,No,4,100.0,Yes,No,No,No,5088
+9,26,Man,iPhone 17 Pro,iOs,100,100,66,18034.0,No,4,100.0,Yes,No,No,No,4252
+10,25,Man,iPhone Air,iOs,100,100,51,18034.0,No,4,100.0,Yes,No,No,No,3149
+11,25,Man,iPhone 17,iOs,100,100,64,18034.0,No,4,100.0,Yes,No,No,No,3692
+12,26,Man,iPhone 16 Pro Max,iOs,100,100,71,18034.0,No,4,100.0,Yes,No,No,No,4685
+13,24,Man,iPhone 16,iOs,100,100,64,18034.0,No,4,100.0,Yes,No,No,No,3561
+14,25,Man,Samsung Galaxy S25 Ultra,Android,100,100,69,18034.0,No,4,100.0,Yes,No,No,No,5000
+15,23,Prefer not to say,Samsung Z Fold 7,Android,100,100,66,18000.0,No,5,100.0,Yes,No,No,No,4400
+16,24,Prefer not to say,Samsung Z Flip 7,Android,100,100,73,18000.0,No,5,100.0,Yes,No,No,No,4300
+17,24,Prefer not to say,Samsung Galaxy S25 Ultra,Android,100,100,73,18000.0,No,5,100.0,Yes,No,No,No,5000
+18,21,Man,Samsung Galaxy S25 Edge,Android,100,100,69,18000.0,No,5,100.0,Yes,No,No,No,4000
+19,19,Man,Iphone 13,iOs,80,46,42,942.0,No,4,50.0,Yes,No,Yes,No,3227
+20,20,Man,ROG Phone 8 Pro Edition,Android,95,70,59,2194.0,No,1,40.0,Yes,No,No,Yes,5500
+21,27,Man,iPhone 13 Pro,iOs,77,71,67,740.0,Yes,1,100.0,Yes,Yes,Yes,No,3095
+22,20,Man,iPhone 12,iOs,97,86,80,1617.0,Yes,5,75.0,Yes,Yes,No,Yes,2815
+23,68,Man,iPhone 11,iOs,84,95,88,1034.8,Yes,5,73.0,Yes,Yes,Yes,No,3110
+24,52,Man,Samsung Galaxy S22,Android,88,74,68,1080.9,Yes,3,94.0,Yes,No,Yes,No,3700
+25,63,Man,iPhone 11,iOs,81,92,87,906.1,Yes,4,66.0,Yes,Yes,No,No,3110
+26,37,Man,Samsung Galaxy Z Fold 6,Android,95,92,91,725.3,Yes,3,25.0,Yes,No,No,Yes,4400
+27,49,Woman,Galaxy S6 Edge,Android,86,91,89,60.0,No,6,89.0,Yes,Yes,Yes,No,2600
+28,18,Woman,Xiaomi 12,Android,93,79,66,777.5,Yes,9,86.0,Yes,Yes,Yes,No,4500
+29,35,Man,Google Pixel 8,Android,91,92,88,946.4,Yes,6,100.0,Yes,Yes,No,No,4575
+30,63,Man,iPhone 14 Pro,iOs,86,98,97,1017.3,Yes,5,15.0,Yes,No,Yes,Yes,3200
+31,29,Man,Samsung Galaxy Z Fold 6,Android,94,73,70,1273.9,Yes,10,12.0,Yes,No,No,Yes,4400
+32,65,Man,iPhone 13,iOs,86,85,77,993.1,Yes,3,95.0,Yes,No,No,No,3227
+33,37,Woman,iPhone 12,iOs,85,96,95,936.7,Yes,3,22.0,Yes,No,Yes,Yes,2815
+34,65,Man,iPhone 11,iOs,84,80,73,860.0,Yes,4,26.0,Yes,Yes,No,Yes,3110
+35,63,Woman,iPhone 15 Pro,iOs,83,100,99,1102.7,Yes,3,78.0,Yes,No,No,No,3274
+36,38,Woman,Samsung Galaxy Z Flip 7,Android,90,100,97,831.7,Yes,8,94.0,Yes,No,No,No,4300
+37,69,Non-binary,iPhone Air,iOs,80,76,68,97.6,No,5,96.0,Yes,Yes,No,No,3149
+38,52,Man,iPhone 13 Pro Max,iOs,88,91,89,971.8,Yes,8,25.0,No,Yes,No,Yes,4352
+39,38,Man,iPhone 16 Pro Max,iOs,94,100,93,701.0,Yes,3,83.0,Yes,No,No,No,4685
+40,42,Man,iPhone 16 Pro Max,iOs,92,91,85,649.9,Yes,9,81.0,Yes,No,No,No,4685
+41,66,Man,iPhone 16,iOs,84,79,78,1016.3,Yes,5,35.0,Yes,Yes,No,Yes,3561
+42,67,Man,iPhone 12,iOs,76,96,95,305.4,No,6,16.0,Yes,No,No,Yes,2815
+43,49,Man,iPhone 13 Pro,iOs,84,79,77,759.4,Yes,3,27.0,Yes,No,No,Yes,3095
+44,47,Woman,OnePlus 10,Android,91,100,99,324.5,No,3,83.0,Yes,No,No,No,4800
+45,37,Prefer not to say,Huawei P50,Android,85,76,74,907.5,Yes,6,85.0,No,No,No,No,4100
+46,45,Man,iPhone 13 Pro Max,iOs,90,71,61,967.2,Yes,4,98.0,Yes,No,No,No,4352
+47,67,Woman,iPhone 15 Pro,iOs,85,99,98,684.2,Yes,8,92.0,Yes,No,No,No,3274
+48,41,Man,iPhone 14 Pro,iOs,89,79,76,747.7,Yes,5,76.0,Yes,No,Yes,No,3200
+49,51,Woman,Galaxy S25 Edge,Android,91,88,84,873.9,Yes,5,49.0,Yes,No,No,No,3900
+50,57,Man,Huawei P50,Android,87,74,67,1021.1,Yes,4,99.0,Yes,No,No,No,4100
+51,59,Man,iPhone 12,iOs,84,83,80,1015.4,Yes,3,93.0,No,No,No,No,2815
+52,54,Woman,iPhone 13 Pro,iOs,83,100,93,928.7,Yes,5,59.0,Yes,No,No,No,3095
+53,35,Man,Samsung Galaxy S24,Android,94,100,99,755.1,Yes,8,14.0,Yes,No,Yes,Yes,4000
+54,63,Man,iPhone 14 Pro Max,iOs,88,75,68,806.5,Yes,6,99.0,Yes,No,Yes,No,4323
+55,39,Woman,Samsung Galaxy S23,Android,90,90,87,870.6,Yes,3,19.0,Yes,Yes,No,Yes,3900
+56,68,Man,iPhone 15 Pro,iOs,80,93,87,730.1,Yes,8,54.0,Yes,No,No,No,3274
+57,62,Man,Google Pixel 8,Android,91,83,81,1072.2,Yes,7,83.0,Yes,No,No,No,4575
+58,29,Man,Xiaomi 12,Android,93,86,85,497.8,Yes,5,19.0,Yes,Yes,No,Yes,4500
+59,50,Non-binary,Huawei P50,Android,85,84,82,597.3,Yes,3,61.0,Yes,Yes,No,No,4100
+60,34,Man,Google Pixel 8,Android,94,79,74,877.0,Yes,3,81.0,Yes,No,No,No,4575
+61,30,Man,Galaxy S7 Edge,Android,91,71,66,801.2,Yes,3,90.0,Yes,No,No,No,3600
+62,17,Man,Google Pixel 8,Android,95,96,92,72.5,No,7,98.0,Yes,No,No,No,4575
+63,34,Prefer not to say,Samsung Galaxy S22,Android,88,77,76,1186.9,Yes,3,40.0,Yes,No,No,Yes,3700
+64,39,Man,iPhone 14,iOs,91,76,75,917.7,Yes,6,41.0,Yes,Yes,Yes,Yes,3279
+65,39,Man,iPhone Air,iOs,85,71,65,84.8,No,6,22.0,Yes,Yes,No,No,3149
+66,34,Man,Samsung Galaxy Z Flip 5,Android,86,90,84,943.4,Yes,3,100.0,Yes,No,No,No,3700
+67,70,Woman,iPhone 15 Pro,iOs,80,82,81,399.8,No,6,32.0,Yes,No,No,Yes,3274
+68,59,Woman,iPhone 13,iOs,83,78,77,676.3,Yes,5,26.0,Yes,No,Yes,Yes,3227
+69,22,Man,Samsung Galaxy Z Flip 5,Android,90,87,86,1096.6,Yes,8,100.0,No,No,No,No,3700
+70,52,Woman,Galaxy S6 Edge,Android,83,71,70,826.8,Yes,4,26.0,Yes,Yes,No,Yes,2600
+71,50,Woman,Samsung Galaxy S22,Android,87,91,89,1074.7,Yes,6,59.0,Yes,No,No,No,3700
+72,52,Woman,iPhone 13,iOs,89,98,95,738.8,Yes,5,36.0,No,No,No,Yes,3227
+73,30,Man,Samsung Galaxy Z Fold 6,Android,95,81,80,1083.9,Yes,4,80.0,No,Yes,Yes,No,4400
+74,18,Man,iPhone 15 Pro Max,iOs,96,81,78,955.3,Yes,8,10.0,Yes,Yes,Yes,Yes,4422
+75,71,Non-binary,iPhone 14 Pro Max,iOs,86,75,72,1185.4,Yes,7,24.0,Yes,No,No,No,4323
+76,18,Woman,iPhone 14 Pro,iOs,91,88,87,746.5,Yes,7,85.0,Yes,No,Yes,No,3200
+77,49,Man,iPhone 15 Pro,iOs,85,89,86,898.3,Yes,6,81.0,Yes,No,No,No,3274
+78,17,Man,Google Pixel 8,Android,94,82,78,918.4,Yes,5,90.0,Yes,No,No,No,4575
+79,17,Man,Xiaomi 12,Android,93,73,72,131.0,No,6,43.0,Yes,Yes,No,No,4500
+80,34,Man,iPhone Air,iOs,86,91,90,1010.5,Yes,5,32.0,Yes,Yes,Yes,Yes,3149
+81,58,Man,iPhone 13 Pro Max,iOs,89,88,87,1092.6,Yes,8,33.0,Yes,Yes,No,No,4352
+82,45,Man,iPhone 11,iOs,84,74,73,934.6,Yes,3,35.0,Yes,No,No,Yes,3110
+83,40,Woman,iPhone 12,iOs,86,80,75,911.2,Yes,3,97.0,Yes,Yes,No,No,2815
+84,49,Woman,iPhone 13 Pro Max,iOs,88,84,82,1068.1,Yes,5,59.0,No,No,Yes,No,4352
+85,39,Woman,Samsung Galaxy S25 Ultra,Android,93,93,92,998.6,Yes,5,96.0,No,No,No,No,5000
+86,72,Man,iPhone 13 Pro Max,iOs,87,76,74,934.2,Yes,4,86.0,No,No,No,No,4352
+87,56,Man,Samsung Galaxy S22,Android,81,88,87,60.0,No,7,98.0,Yes,Yes,No,No,3700
+88,20,Woman,iPhone 15 Pro,iOs,91,84,82,1068.1,Yes,7,29.0,No,No,No,No,3274
+89,55,Woman,iPhone 14,iOs,83,97,96,849.0,Yes,5,23.0,Yes,Yes,No,Yes,3279
+90,71,Woman,iPhone 13 Pro Max,iOs,88,87,84,452.2,No,6,92.0,No,Yes,No,No,4352
+91,49,Woman,OnePlus 10,Android,90,83,78,931.7,Yes,5,89.0,Yes,Yes,No,No,4800
+92,39,Woman,Samsung Galaxy S23 Ultra,Android,91,73,70,814.4,Yes,5,13.0,Yes,No,Yes,Yes,5000
+93,37,Man,iPhone 13 Pro,iOs,87,91,89,391.5,No,3,20.0,Yes,No,No,Yes,3095
+94,23,Man,iPhone 14,iOs,88,72,68,1058.7,Yes,4,58.0,Yes,No,No,No,3279
+95,61,Man,iPhone 14 Pro,iOs,81,89,88,707.6,Yes,3,20.0,Yes,Yes,No,Yes,3200
+96,48,Man,iPhone 13 Pro,iOs,87,74,73,872.6,Yes,3,23.0,No,Yes,No,Yes,3095
+97,17,Man,Samsung Galaxy S22,Android,93,76,73,886.0,Yes,7,45.0,Yes,Yes,Yes,Yes,3700
+98,57,Man,iPhone 13,iOs,81,86,85,755.8,Yes,4,36.0,Yes,No,No,Yes,3227
+99,46,Woman,Galaxy S6 Edge,Android,84,74,71,965.1,Yes,5,21.0,No,Yes,No,Yes,2600
+100,67,Man,iPhone 15,iOs,83,88,86,794.6,Yes,3,88.0,No,No,No,No,3349
+101,63,Man,Google Pixel 7,Android,88,80,73,1025.1,Yes,3,89.0,Yes,No,No,No,4355
+102,64,Man,Galaxy S7 Edge,Android,90,73,66,863.2,Yes,5,100.0,Yes,Yes,No,No,3600
+103,71,Man,iPhone 14 Pro,iOs,82,88,83,793.6,Yes,8,28.0,Yes,Yes,Yes,No,3200
+104,30,Woman,iPhone 17 Pro Max,iOs,95,97,91,848.7,Yes,4,36.0,Yes,Yes,No,Yes,5088
+105,29,Man,Galaxy S7 Edge,Android,88,93,84,399.8,No,5,83.0,No,No,No,No,3600
+106,43,Woman,iPhone 13 Pro,iOs,86,78,77,1039.6,Yes,6,93.0,No,Yes,No,No,3095
+107,18,Woman,Galaxy S6 Edge,Android,89,91,90,428.4,No,7,20.0,Yes,No,Yes,Yes,2600
+108,34,Man,OnePlus 10,Android,93,94,92,337.7,No,3,94.0,Yes,No,Yes,No,4800
+109,67,Man,Google Pixel 7,Android,84,90,89,880.8,Yes,5,47.0,Yes,No,No,Yes,4355
+110,74,Woman,iPhone Air,iOs,77,72,67,791.0,Yes,3,35.0,Yes,No,No,No,3149
+111,34,Woman,iPhone 14 Pro,iOs,85,84,81,967.9,Yes,4,97.0,Yes,No,Yes,No,3200
+112,71,Man,Google Pixel 7,Android,87,78,77,800.3,Yes,5,13.0,Yes,Yes,No,Yes,4355
+113,19,Prefer not to say,Galaxy S6 Edge,Android,88,88,87,845.0,Yes,3,26.0,Yes,No,No,Yes,2600
+114,67,Man,iPhone 16 Pro,iOs,84,78,77,733.4,Yes,5,36.0,No,Yes,Yes,Yes,3582
+115,59,Woman,iPhone 13 Pro,iOs,84,77,73,752.9,Yes,6,93.0,Yes,No,No,No,3095
+116,71,Man,iPhone 15 Pro Max,iOs,85,84,80,826.4,Yes,4,75.0,Yes,Yes,No,No,4422
+117,29,Man,Google Pixel 7,Android,93,96,95,666.3,Yes,4,29.0,Yes,No,No,Yes,4355
+118,68,Man,Google Pixel 7,Android,93,76,72,989.9,Yes,7,100.0,Yes,Yes,No,No,4355
+119,32,Woman,Galaxy S25 Edge,Android,94,91,89,946.5,Yes,6,27.0,Yes,No,Yes,Yes,3900
+120,21,Man,Huawei P50,Android,93,81,79,779.4,Yes,3,30.0,No,No,No,No,4100
+121,50,Man,iPhone 12,iOs,81,94,89,584.3,Yes,6,20.0,Yes,Yes,Yes,Yes,2815
+122,45,Woman,iPhone 13,iOs,86,75,74,1258.5,Yes,3,63.0,Yes,Yes,No,No,3227
+123,70,Woman,Huawei P50,Android,90,71,69,918.5,Yes,4,99.0,Yes,Yes,Yes,No,4100
+124,30,Woman,iPhone Air,iOs,89,77,76,787.1,Yes,3,100.0,Yes,No,No,No,3149
+125,19,Man,iPhone 13,iOs,88,96,95,1087.4,Yes,3,22.0,Yes,No,Yes,No,3227
+126,64,Non-binary,Galaxy S7 Edge,Android,87,77,76,700.5,Yes,7,24.0,Yes,No,No,Yes,3600
+127,49,Woman,iPhone 16 Pro Max,iOs,89,87,83,764.7,Yes,4,98.0,Yes,No,No,No,4685
+128,32,Man,Google Pixel 7,Android,90,92,89,576.5,Yes,6,74.0,Yes,No,Yes,No,4355
+129,47,Man,Google Pixel 7,Android,92,87,86,1030.7,Yes,8,84.0,Yes,Yes,No,No,4355
+130,32,Man,iPhone 13 Pro Max,iOs,92,89,81,881.8,Yes,7,83.0,Yes,Yes,Yes,No,4352
+131,32,Woman,Galaxy S6 Edge,Android,86,91,87,372.7,No,8,88.0,No,No,No,No,2600
+132,57,Woman,iPhone 15 Pro Max,iOs,89,70,66,709.3,Yes,6,55.0,Yes,Yes,No,No,4422
+133,59,Prefer not to say,iPhone 14,iOs,84,100,99,671.9,Yes,3,26.0,Yes,Yes,No,Yes,3279
+134,27,Man,iPhone 14,iOs,96,71,70,738.7,Yes,4,90.0,Yes,No,No,No,3279
+135,29,Man,iPhone 16,iOs,85,83,82,1286.8,Yes,7,95.0,No,No,No,No,3561
+136,39,Non-binary,iPhone 17 Pro,iOs,88,95,94,872.9,Yes,3,33.0,Yes,No,No,Yes,4252
+137,20,Woman,iPhone 15 Pro Max,iOs,94,97,88,619.3,Yes,7,88.0,Yes,Yes,Yes,No,4422
+138,60,Woman,iPhone 11,iOs,84,96,88,1030.3,Yes,3,91.0,No,Yes,No,No,3110
+139,66,Non-binary,iPhone Air,iOs,82,85,79,1094.0,Yes,7,35.0,Yes,Yes,No,No,3149
+140,45,Non-binary,Google Pixel 7,Android,92,73,67,313.0,No,10,46.0,Yes,No,Yes,No,4355
+141,18,Man,OnePlus 10,Android,94,95,89,855.8,Yes,9,34.0,Yes,No,No,No,4800
+142,36,Non-binary,iPhone 13,iOs,89,98,97,1007.2,Yes,4,40.0,Yes,No,No,Yes,3227
+143,20,Man,OnePlus 10,Android,96,98,93,993.5,Yes,5,22.0,Yes,Yes,No,Yes,4800
+144,24,Man,Xiaomi 12,Android,95,96,89,721.8,Yes,7,97.0,Yes,No,No,No,4500
+145,51,Woman,iPhone 14 Pro,iOs,86,86,78,719.0,Yes,7,39.0,Yes,Yes,No,No,3200

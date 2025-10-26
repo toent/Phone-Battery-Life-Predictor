@@ -52,14 +52,6 @@ phone_specs = {
     # Samsung Galaxy Edge
     "Galaxy S6 Edge": (2600, 0.9),
     "Galaxy S7 Edge": (3600, 0.95),
-    "Galaxy S8 Edge": (3500, 1.0),
-    "Galaxy S9 Edge": (3500, 1.05),
-    "Galaxy S10 Edge": (4100, 1.1),
-    "Galaxy S20 Edge": (4300, 1.2),
-    "Galaxy S21 Edge": (4500, 1.25),
-    "Galaxy S22 Edge": (3700, 1.3),
-    "Galaxy S23 Edge": (3900, 1.35),
-    "Galaxy S24 Edge": (4000, 1.4),
     "Galaxy S25 Edge": (4200, 1.45),
 
     # Others
