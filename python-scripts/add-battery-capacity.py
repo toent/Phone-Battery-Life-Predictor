@@ -2,8 +2,8 @@ import pandas as pd
 from collections import Counter
 
 # --- CONFIGURATION ---
-INPUT_FILE = "Data Collection Smartphone Battery Life_expanded.csv"
-OUTPUT_FILE = "Data Collection Smartphone Battery Life_with_capacity.csv"
+INPUT_FILE = "python-scripts/mnt/data/Data Collection Smartphone Battery Life(Sheet1).csv"
+OUTPUT_FILE = INPUT_FILE.replace(".csv", "_with_capacity.csv")
 
 # --- LOAD DATA ---
 df = pd.read_csv(INPUT_FILE)
