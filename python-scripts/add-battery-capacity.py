@@ -76,11 +76,11 @@ df["batterycapacity_mAh"] = df["userphone"].apply(get_battery_capacity)
 
 # --- SUMMARY ---
 counts = Counter(df["batterycapacity_mAh"])
-print("✅ Battery capacity column added.\n")
-print("🔹 Capacity distribution:")
+print("Battery capacity column added.\n")
+print("Capacity distribution:")
 for cap, count in counts.items():
     print(f"  {cap:>8} mAh : {count} rows")
 
 # --- SAVE OUTPUT ---
 df.to_csv(OUTPUT_FILE, index=False)
-print(f"\n💾 Saved updated dataset to: {OUTPUT_FILE}")
+print(f"Saved updated dataset to: {OUTPUT_FILE}")

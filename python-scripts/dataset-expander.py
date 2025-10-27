@@ -162,4 +162,4 @@ combined_df = pd.concat([df, new_df], ignore_index=True)
 
 output_path = "python-scripts/mnt/data/Data Collection Smartphone Battery Life_expanded.csv"
 combined_df.to_csv(output_path, index=False)
-print(f"✅ Expanded dataset saved to:\n{output_path}")
+print(f"Expanded dataset saved to:\n{output_path}")

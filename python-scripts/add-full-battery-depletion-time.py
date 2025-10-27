@@ -11,7 +11,7 @@ df = pd.read_csv(INPUT_FILE)
 required_cols = ["startbatterypercentage", "endbatterypercentage", "sessionlength"]
 for col in required_cols:
     if col not in df.columns:
-        raise ValueError(f"❌ Missing required column: {col}")
+        raise ValueError(f"Missing required column: {col}")
 
 # --- CLEAN AND CONVERT DATA ---
 df["startbatterypercentage"] = pd.to_numeric(df["startbatterypercentage"], errors="coerce")
@@ -36,7 +36,7 @@ def estimate_battery_life(row):
 
     # Estimate full battery lifetime (in seconds)
     estimated_remaining_life = (session_time / drained_percent) * start
-    return int(round(estimated_remaining_life))  # ✅ round to whole seconds
+    return int(round(estimated_remaining_life))  # round to whole seconds
 
 # --- APPLY FUNCTION ---
 df["estimated_remaining_life_s"] = df.apply(estimate_battery_life, axis=1)
@@ -47,7 +47,7 @@ df.to_csv(OUTPUT_FILE, index=False)
 # --- SUMMARY ---
 valid_rows = df["estimated_remaining_life_s"].notna().sum()
 avg_life = df["estimated_remaining_life_s"].mean()
-print(f"✅ Added 'estimated_remaining_life_s' (rounded to whole seconds) for {valid_rows} rows.")
+print(f"Added 'estimated_remaining_life_s' (rounded to whole seconds) for {valid_rows} rows.")
 if not pd.isna(avg_life):
-    print(f"⚡ Average estimated remaining life: {avg_life/3600:.2f} hours.")
-print(f"💾 Saved file: {OUTPUT_FILE}")
+    print(f"Average estimated remaining life: {avg_life/3600:.2f} hours.")
+print(f"Saved file: {OUTPUT_FILE}")
