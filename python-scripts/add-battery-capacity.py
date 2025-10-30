@@ -2,7 +2,7 @@ import pandas as pd
 from collections import Counter
 
 # --- CONFIGURATION ---
-INPUT_FILE = "python-scripts/mnt/data/Data Collection Smartphone Battery Life(Sheet1).csv"
+INPUT_FILE = "python-scripts/mnt/data/mod/Data Collection Smartphone Battery Life(Sheet1).csv"
 OUTPUT_FILE = INPUT_FILE.replace(".csv", "_with_capacity.csv")
 
 # --- LOAD DATA ---
@@ -66,6 +66,8 @@ def get_battery_capacity(phone_name: str):
     if "xiaomi 12" in n: return 4500
     if "huawei p50" in n: return 4100
     if "oneplus 10" in n: return 4800
+    if "huawei nova 13" in n: return 5000
+    if "nothing phone 3a" in n: return 5000
 
     # --- UNKNOWN ---
     return 0

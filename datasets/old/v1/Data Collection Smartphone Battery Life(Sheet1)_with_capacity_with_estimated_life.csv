@@ -1,5 +1,5 @@
 Id,userage,usergender,userphone,phoneos,batteryhealth,startbatterypercentage,endbatterypercentage,sessionlength,timedonphone,appcount,screenbrightness,usednetwork,usedbluetooth,usedGPS,usedbatterysaving,batterycapacity_mAh,estimated_remaining_life_s
-1,20,Man,iPhone 12,iOs,97,70,62,1212,No,5,,Yes,Yes,No,No,2815,10605
+1,20,Man,iPhone 12,iOs,97,70,62,1212,No,5,75.0,Yes,Yes,No,No,2815,10605
 2,20,Man,iPhone 12,iOs,97,54,42,1159,Yes,3,100.0,Yes,No,No,No,2815,5216
 3,20,Man,ROG Phone 8 Pro Edition ,Android,95,62,53,1923,Yes,3,80.0,Yes,No,No,No,5500,13247
 4,22,Woman,iPhone 11 ,iOs,76,69,56,600,No,1,100.0,Yes,No,No,No,3110,3185
