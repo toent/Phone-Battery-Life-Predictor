@@ -1,0 +1,39 @@
+Id,userage,usergender,userphone,phoneos,batteryhealth,startbatterypercentage,endbatterypercentage,sessionlength,timedonphone,appcount,screenbrightness,usednetwork,usedbluetooth,usedGPS,usedbatterysaving,batterycapacity_mAh,estimated_remaining_life_s
+1,20,Man,iPhone 12,iOs,97,70,62,1212,No,5,75,Yes,Yes,No,No,2815,10605
+2,20,Man,iPhone 12,iOs,97,54,42,1159,Yes,3,100,Yes,No,No,No,2815,5216
+3,20,Man,ROG Phone 8 Pro Edition ,Android,95,62,53,1923,Yes,3,80,Yes,No,No,No,5500,13247
+4,22,Woman,iPhone 11 ,iOs,76,69,56,600,No,1,100,Yes,No,No,No,3110,3185
+5,27,Man,Iphone 12,iOs,79,52,32,1500,Yes,3,35,Yes,No,No,No,2815,3900
+6,26,Woman,Samsung Galaxy S24 Ultra,Android,95,80,78,956,No,1,10,Yes,Yes,No,No,5000,38240
+7,20,Man,iPhone 12,iOs,97,100,93,1508,Yes,8,5,Yes,No,No,No,2815,21543
+8,26,Man,iPhone 17 Pro Max,iOs,100,100,73,18034,No,4,100,Yes,No,No,No,5088,66793
+9,26,Man,iPhone 17 Pro,iOs,100,100,66,18034,No,4,100,Yes,No,No,No,4252,53041
+10,25,Man,iPhone Air,iOs,100,100,51,18034,No,4,100,Yes,No,No,No,3149,36804
+11,25,Man,iPhone 17,iOs,100,100,64,18034,No,4,100,Yes,No,No,No,3692,50094
+12,26,Man,iPhone 16 Pro Max,iOs,100,100,71,18034,No,4,100,Yes,No,No,No,4685,62186
+13,24,Man,iPhone 16,iOs,100,100,64,18034,No,4,100,Yes,No,No,No,3561,50094
+14,25,Man,Samsung Galaxy S25 Ultra,Android,100,100,69,18034,No,4,100,Yes,No,No,No,5000,58174
+15,23,Prefer not to say,Samsung Z Fold 7,Android,100,100,66,18000,No,5,100,Yes,No,No,No,4400,52941
+16,24,Prefer not to say,Samsung Z Flip 7,Android,100,100,73,18000,No,5,100,Yes,No,No,No,4300,66667
+17,24,Prefer not to say,Samsung Galaxy S25 Ultra,Android,100,100,73,18000,No,5,100,Yes,No,No,No,5000,66667
+18,21,Man,Samsung Galaxy S25 Edge,Android,100,100,69,18000,No,5,100,Yes,No,No,No,3900,58065
+19,19,Man,Iphone 13,iOs,80,46,42,942,No,4,50,Yes,No,Yes,No,3227,10833
+20,20,Man,ROG Phone 8 Pro Edition,Android,95,70,59,2194,No,1,40,Yes,No,No,Yes,5500,13962
+21,27,Man,iPhone 13 Pro,iOs,77,71,67,740,Yes,1,100,Yes,Yes,Yes,No,3095,13135
+22,20,Man,iPhone 12,iOs,97,86,80,1617,Yes,5,75,Yes,Yes,No,Yes,2815,23177
+23,20,Man,ROG Phone 8 Pro Edition,Android,95,55,51,922,No,1,80,Yes,No,No,No,5500,12678
+24,23,Man,iPhone 15 Pro Max,iOs,100,100,70,15132,No,4,45,Yes,No,No,No,4422,50440
+25,22,Man,iPhone 15 Pro,iOs,100,100,54,15132,No,4,45,Yes,No,No,No,3274,32896
+26,21,Prefer not to say,iPhone 15 Plus,iOs,100,100,72,15132,No,4,45,Yes,No,No,No,3349,54043
+27,21,Prefer not to say,iPhone 15,iOs,100,100,65,15132,No,4,45,Yes,No,No,No,3349,43234
+28,20,Man,iPhone 14 Pro Max,iOs,100,100,63,15132,No,4,45,Yes,No,No,No,4323,40897
+29,21,Man,iPhone 14,iOs,100,100,55,15132,No,4,45,Yes,No,No,No,3279,33627
+30,22,Prefer not to say,iPhone 13 Pro Max,iOs,100,100,67,15132,No,4,45,Yes,No,No,No,4352,45855
+31,23,Man,iPhone 15,iOs,100,100,39,21663,No,6,45,Yes,No,No,No,3349,35513
+32,22,Prefer not to say,Google Pixel 8,Android,100,100,44,21663,No,6,45,Yes,No,No,No,4575,38684
+33,22,Prefer not to say,Samsung Galaxy S23,Android,100,100,43,21663,No,6,45,Yes,No,No,No,3900,38005
+34,20,Prefer not to say,Samsung Galaxy S24,Android,100,100,62,18010,No,5,90,Yes,No,No,No,4000,47395
+35,21,Prefer not to say,Google Pixel 8,Android,100,100,61,18010,No,5,90,Yes,No,No,No,4575,46179
+36,23,Prefer not to say,iPhone 15,iOs,100,100,54,18010,No,5,90,Yes,No,No,No,3349,39152
+37,20,Prefer not to say,Huawei Nova 13,Android,100,100,66,18010,No,5,90,Yes,No,No,No,5000,52971
+38,23,Prefer not to say,Nothing Phone 3a,Android,100,100,64,18010,No,5,90,Yes,No,No,No,5000,50028

@@ -37,3 +37,18 @@ Id,userage,usergender,userphone,phoneos,batteryhealth,startbatterypercentage,end
 36,23,Prefer not to say,iPhone 15,iOs,100,100,54,18010,No,5,90,Yes,No,No,No
 37,20,Prefer not to say,Huawei Nova 13,Android,100,100,66,18010,No,5,90,Yes,No,No,No
 38,23,Prefer not to say,Nothing Phone 3a,Android,100,100,64,18010,No,5,90,Yes,No,No,No
+39,53,Woman,iPhone 12 Pro,iOs,88,100,97,1285,Yes,1,25,Yes,No,No,No
+40,53,Woman,iPhone 12 Pro,iOs,88,55,50,1074,Yes,1,50,Yes,No,No,No
+41,53,Woman,iPhone 12 Pro,iOs,88,68,63,933,Yes,2,50,Yes,No,No,No
+42,53,Woman,Samsung A34,Android,95,54,54,135,Yes,2,85,Yes,No,No,No
+43,23,Man,Samsung A35,Android,100,71,70,600,Yes,3,40,Yes,Yes,Yes,Yes
+44,56,Man,iPhone 16e,iOs,99,97,92,2800,No,21,50,Yes,No,No,No
+45,53,Prefer not to say,iPhone 11,iOs,94,65,63,1800,Yes,2,60,Yes,No,No,No
+46,19,Man,iPhone 16 Pro,iOs,94,85,82,2075,Yes,5,50,Yes,Yes,No,No
+47,51,Man,iPhone 13,iOs,89,88,86,1800,Yes,14,25,Yes,No,No,No
+48,56,Man,iPhone 16e,iOs,99,96,94,9056,Yes,11,50,Yes,No,No,No
+49,54,Woman,iPhone ,iOs,83,48,27,3900,Yes,6,10,Yes,No,No,No
+50,81,Man,iPhone 8,iOs,76,81,78,300,No,2,80,Yes,No,No,Yes
+51,81,Man,iPhone 8,iOs,74,74,72,420,No,2,80,Yes,No,No,Yes
+52,52,Woman,Experia XQ-BQ52,Android,75,37,34,600,Yes,4,95,Yes,No,No,No
+53,55,Prefer not to say,iPhone,iOs,95,93,92,900,Yes,17,20,Yes,No,No,No

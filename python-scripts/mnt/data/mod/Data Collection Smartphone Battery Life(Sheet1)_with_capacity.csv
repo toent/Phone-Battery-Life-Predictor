@@ -35,5 +35,20 @@ Id,userage,usergender,userphone,phoneos,batteryhealth,startbatterypercentage,end
 34,20,Prefer not to say,Samsung Galaxy S24,Android,100,100,62,18010,No,5,90,Yes,No,No,No,4000
 35,21,Prefer not to say,Google Pixel 8,Android,100,100,61,18010,No,5,90,Yes,No,No,No,4575
 36,23,Prefer not to say,iPhone 15,iOs,100,100,54,18010,No,5,90,Yes,No,No,No,3349
-37,20,Prefer not to say,Huawei Nova 13,Android,100,100,66,18010,No,5,90,Yes,No,No,No,0
-38,23,Prefer not to say,Nothing Phone 3a,Android,100,100,64,18010,No,5,90,Yes,No,No,No,0
+37,20,Prefer not to say,Huawei Nova 13,Android,100,100,66,18010,No,5,90,Yes,No,No,No,5000
+38,23,Prefer not to say,Nothing Phone 3a,Android,100,100,64,18010,No,5,90,Yes,No,No,No,5000
+39,53,Woman,iPhone 12 Pro,iOs,88,100,97,1285,Yes,1,25,Yes,No,No,No,2815
+40,53,Woman,iPhone 12 Pro,iOs,88,55,50,1074,Yes,1,50,Yes,No,No,No,2815
+41,53,Woman,iPhone 12 Pro,iOs,88,68,63,933,Yes,2,50,Yes,No,No,No,2815
+42,53,Woman,Samsung A34,Android,95,54,54,135,Yes,2,85,Yes,No,No,No,5000
+43,23,Man,Samsung A35,Android,100,71,70,600,Yes,3,40,Yes,Yes,Yes,Yes,5000
+44,56,Man,iPhone 16e,iOs,99,97,92,2800,No,21,50,Yes,No,No,No,3561
+45,53,Prefer not to say,iPhone 11,iOs,94,65,63,1800,Yes,2,60,Yes,No,No,No,3110
+46,19,Man,iPhone 16 Pro,iOs,94,85,82,2075,Yes,5,50,Yes,Yes,No,No,3582
+47,51,Man,iPhone 13,iOs,89,88,86,1800,Yes,14,25,Yes,No,No,No,3227
+48,56,Man,iPhone 16e,iOs,99,96,94,9056,Yes,11,50,Yes,No,No,No,3561
+49,54,Woman,iPhone ,iOs,83,48,27,3900,Yes,6,10,Yes,No,No,No,3000
+50,81,Man,iPhone 8,iOs,76,81,78,300,No,2,80,Yes,No,No,Yes,1821
+51,81,Man,iPhone 8,iOs,74,74,72,420,No,2,80,Yes,No,No,Yes,1821
+52,52,Woman,Experia XQ-BQ52,Android,75,37,34,600,Yes,4,95,Yes,No,No,No,4500
+53,55,Prefer not to say,iPhone,iOs,95,93,92,900,Yes,17,20,Yes,No,No,No,3000

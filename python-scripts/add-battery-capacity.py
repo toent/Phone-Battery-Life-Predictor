@@ -35,6 +35,8 @@ def get_battery_capacity(phone_name: str):
     if "iphone 12" in n: return 2815
     if "iphone 11" in n: return 3110
     if "iphone air" in n: return 3149
+    if "iphone 8" in n: return 1821
+    if "iphone" in n: return 3000
 
     # --- SAMSUNG S SERIES ---
     if "samsung galaxy s25 ultra" in n: return 5000
@@ -47,6 +49,8 @@ def get_battery_capacity(phone_name: str):
     if "samsung galaxy s22" in n: return 3700
     if "galaxy s7 edge" in n: return 3600
     if "galaxy s6 edge" in n: return 2600
+    if "samsung a34" in n: return 5000
+    if "samsung a35" in n: return 5000
 
     # --- SAMSUNG FOLDABLES ---
     if "samsung z fold 7" in n or "galaxy z fold 7" in n: return 4400
@@ -68,6 +72,7 @@ def get_battery_capacity(phone_name: str):
     if "oneplus 10" in n: return 4800
     if "huawei nova 13" in n: return 5000
     if "nothing phone 3a" in n: return 5000
+    if "experia xq-bq52" in n: return 4500
 
     # --- UNKNOWN ---
     return 0
